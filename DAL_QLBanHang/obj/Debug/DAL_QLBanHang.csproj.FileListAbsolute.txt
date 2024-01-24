@@ -1,0 +1,15 @@
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll.config
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.dll
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\bin\Debug\DAL_QLBanHang.pdb
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\bin\Debug\EntityFramework.dll
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\bin\Debug\EntityFramework.SqlServer.dll
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\bin\Debug\DTO_QLBanHang.dll.config
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\bin\Debug\EntityFramework.xml
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\bin\Debug\EntityFramework.SqlServer.xml
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.AssemblyReference.cache
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CoreCompileInputs.cache
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.csproj.CopyComplete
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.dll
+D:\PTPM\DuAn_NET\QLBanHang\DAL_QLBanHang\obj\Debug\DAL_QLBanHang.pdb
